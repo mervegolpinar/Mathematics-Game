@@ -1,0 +1,16 @@
+.state {
+    display: flex;
+}
+
+.state ul {
+    color: #fff;
+    position: absolute;
+    left: 60%;
+    top: 0px;
+    gap: 49px;
+    font-size: 28px;
+    display: flex;
+    list-style-type: none;
+
+
+}
